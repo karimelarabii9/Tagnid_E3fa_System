@@ -1,0 +1,35 @@
+name: Tagnid_E3fa_System
+description: "A new Flutter project."
+publish_to: 'none'  # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"  # Use correct version constraints
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7  # Correct indentation here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0  # Use a compatible version for Flutter 3.6.1
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-VariableFont_slnt,wght.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-VariableFont_wdth,wght.ttf
+
+  assets:
+    - assets/photo.png  # Correct indentation
+    - assets/fonts/Cairo-VariableFont_slnt,wght.ttf
+    - assets/fonts/Roboto-VariableFont_wdth,wght.ttf

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Tagnid_E3fa_System/questions.dart';
+import 'package:tagnid_e3fa_system/questions.dart';
 
 void main() {
   runApp(ExemptionApp());

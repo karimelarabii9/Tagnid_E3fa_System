@@ -1,10 +1,10 @@
-import 'package:Tagnid_E3fa_System/OnlyMotherSonExemptionResultScreenFinal.dart';
-import 'package:Tagnid_E3fa_System/OnlySonExemptionResultScreenFinal.dart';
+import 'package:tagnid_e3fa_system/OnlyMotherSonExemptionResultScreenFinal.dart';
+import 'package:tagnid_e3fa_system/OnlySonExemptionResultScreenFinal.dart';
 import 'package:flutter/material.dart';
-import 'package:Tagnid_E3fa_System/takhlof_Screen.dart';
-import 'package:Tagnid_E3fa_System/exScreen.dart';
-import 'package:Tagnid_E3fa_System/exScreen2.dart';
-import 'package:Tagnid_E3fa_System/tagnid.dart';
+import 'package:tagnid_e3fa_system/takhlof_Screen.dart';
+import 'package:tagnid_e3fa_system/exScreen.dart';
+import 'package:tagnid_e3fa_system/exScreen2.dart';
+import 'package:tagnid_e3fa_system/tagnid.dart';
 
 class QuestionsScreen extends StatefulWidget {
   const QuestionsScreen({super.key});
